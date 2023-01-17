@@ -32,7 +32,7 @@ export const handler = async(event) => {
 
     // Create email body
     let emailBody = "";
-
+ 
 ////////////////////////////////////////////////////////////////////////
     const createInstanceSnapshots = async () => {
         // Define variables for AWS-SDK
